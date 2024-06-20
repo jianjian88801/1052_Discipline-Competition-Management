@@ -96,6 +96,10 @@
 
 ![输入图片说明](images/64814758dd98e73ba2a58f420b55e16.png)
 
+首页
+
+![输入图片说明](images/34d1d03371bd02ea88a073f8b1a1723.png)
+
 赛事信息
 
 ![输入图片说明](images/5c6829c2f2f6316342e3ec64e081ba2.png)
